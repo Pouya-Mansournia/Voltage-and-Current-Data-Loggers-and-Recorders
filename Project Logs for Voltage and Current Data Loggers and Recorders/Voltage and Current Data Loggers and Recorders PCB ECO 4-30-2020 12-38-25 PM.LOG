@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component C11 100pf
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component C14 Cap
+Added Member To Class: ClassName=U_Power Management Member=Component C19 Cap_P
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component R7 10k
+Added Member To Class: ClassName=U_Power Management Member=Component R9 Resistor
+Added Member To Class: ClassName=U_Power Management Member=Component R10 Resistor

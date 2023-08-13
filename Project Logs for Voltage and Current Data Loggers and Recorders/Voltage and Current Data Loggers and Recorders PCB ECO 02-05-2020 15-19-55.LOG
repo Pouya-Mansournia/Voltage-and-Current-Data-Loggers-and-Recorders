@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=SW01 Pin=R12-2
+Added Pin To Net: NetName=SW01 Pin=T5-2
+Added Pin To Net: NetName=SW01 Pin=U2-16
+Added Net: Name=SW01
+Added Pin To Net: NetName=SW02 Pin=R13-2
+Added Pin To Net: NetName=SW02 Pin=T4-2
+Added Pin To Net: NetName=SW02 Pin=U2-17
+Added Net: Name=SW02
+Added Pin To Net: NetName=SW03 Pin=R14-2
+Added Pin To Net: NetName=SW03 Pin=T3-2
+Added Pin To Net: NetName=SW03 Pin=U2-18
+Added Net: Name=SW03
+Added Room: Name=U_MicroControllerSTM32f103

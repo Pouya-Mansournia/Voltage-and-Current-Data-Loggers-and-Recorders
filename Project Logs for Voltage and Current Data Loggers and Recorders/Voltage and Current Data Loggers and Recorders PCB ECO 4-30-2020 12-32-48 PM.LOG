@@ -1,0 +1,64 @@
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component C1 10pf
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component C2 10pf
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component C3 1uf
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component C4 1uf
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component C5 20pf
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component C6 10pf
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component C7 20pf
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component C8 10pf
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component C9 100pf
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component C10 Cap_P
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component C11 Cap
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component C12 Cap
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component C13 Cap
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component C14 Cap
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component C15 Cap
+Added Member To Class: ClassName=U_Power Management Member=Component C16 Cap_P
+Added Member To Class: ClassName=U_Power Management Member=Component C17 Cap_P
+Added Member To Class: ClassName=U_Power Management Member=Component C18 Cap_P
+Added Member To Class: ClassName=U_Power Management Member=Component C19 Cap
+Added Member To Class: ClassName=U_Power Management Member=Component C20 Cap
+Added Member To Class: ClassName=U_Power Management Member=Component C21 Cap
+Added Member To Class: ClassName=U_Power Management Member=Component C22 Cap
+Added Member To Class: ClassName=U_Power Management Member=Component C23 Cap
+Added Member To Class: ClassName=U_Power Management Member=Component D1 Diode
+Added Member To Class: ClassName=U_Power Management Member=Component D2 Diode
+Added Member To Class: ClassName=U_Power Management Member=Component D3 Diode
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component DS3 LED
+Added Member To Class: ClassName=U_Power Management Member=Component DS4 LED
+Added Member To Class: ClassName=U_Power Management Member=Component f1 Fuse
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component I2 Inductor
+Added Member To Class: ClassName=U_Power Management Member=Component I3 Inductor
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component J1 Jumper
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component J2 Jumper
+Added Member To Class: ClassName=U_Power Management Member=Component K1 RelayMilon
+Added Member To Class: ClassName=U_Power Management Member=Component K2 RelayMilon
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component R1 15K
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component R2 330
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component R3 330
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component R4 330
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component R6 Resistor
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component R7 Resistor
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component R8 10k
+Added Member To Class: ClassName=U_Power Management Member=Component R9 Resistor
+Added Member To Class: ClassName=U_Power Management Member=Component R10 Resistor
+Added Member To Class: ClassName=U_Power Management Member=Component R11 Resistor
+Added Member To Class: ClassName=U_Power Management Member=Component R12 Resistor
+Added Member To Class: ClassName=U_Power Management Member=Component Sc1 Screw
+Added Member To Class: ClassName=U_Power Management Member=Component Sc2 Screw
+Added Member To Class: ClassName=U_Power Management Member=Component Sc3 Screw
+Added Member To Class: ClassName=U_Power Management Member=Component Sc4 Screw
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component T1 USB_B
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component T2 Serial Program
+Added Member To Class: ClassName=U_Power Management Member=Component T3 DC-Jack
+Added Member To Class: ClassName=U_Power Management Member=Component T4 Phonix-4
+Added Member To Class: ClassName=U_Power Management Member=Component T5 Phonix-2
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component U1 PL2303TA
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component U2 STM32F103C8T6
+Added Member To Class: ClassName=U_Power Management Member=Component U3 LM1117
+Added Member To Class: ClassName=U_Power Management Member=Component U4 LM2576S
+Added Member To Class: ClassName=U_Power Management Member=Component U5 ULN2003
+Added Member To Class: ClassName=U_Power Management Member=Component U6 ACS712
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component Y1 12Mhz
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component Y2 8Mhz
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component Y3 32.768Khz

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=V+(2)CCW Pin=T4-1
+Removed Pin From Net: NetName=COM_OUT Pin=T4-3
+Added Pin To Net: NetName=COM_OUT Pin=T4-1
+Added Pin To Net: NetName=V+(2)CCW Pin=T4-3

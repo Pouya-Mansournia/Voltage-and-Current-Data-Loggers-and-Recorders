@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=U_MicroControllerSTM32f103 Member=C18
+Removed Member From Class: ClassName=U_MicroControllerSTM32f103 Member=C21
+Removed Member From Class: ClassName=U_Power Management Member=I1
+Removed Member From Class: ClassName=U_Power Management Member=R6
+Added Component: Designator=C5(Cap0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(Cap0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=Vo33 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=Vo33 Pin=C6-2
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component C5 100nf
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component C6 1uf
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component C7 20pf
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component C8 10pf
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component C11 100pf
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component C14 Cap
+Added Member To Class: ClassName=U_Power Management Member=Component C18 Cap_P
+Added Member To Class: ClassName=U_Power Management Member=Component C19 Cap_P
+Added Member To Class: ClassName=U_Power Management Member=Component I2 Inductor
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component R7 10k
+Added Member To Class: ClassName=U_Power Management Member=Component R9 Resistor
+Added Member To Class: ClassName=U_Power Management Member=Component R10 Resistor
+Added Member To Class: ClassName=U_Power Management Member=Component R11 Resistor
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component U1 PL2303TA

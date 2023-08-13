@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=S-Current Pin=U2-17
+Added Pin To Net: NetName=S-Current Pin=U2-38
+Added Room: Name=U_Communication and peripherals
+Added Room: Name=U_MicroControllerSTM32f103

@@ -1,0 +1,33 @@
+Removed Member From Class: ClassName=U_MicroControllerSTM32f103 Member=T6
+Removed Member From Class: ClassName=U_MicroControllerSTM32f103 Member=T7
+Removed Member From Class: ClassName=U_MicroControllerSTM32f103 Member=T8
+Added Component: Designator=R12(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R13(0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R14(0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3V Pin=R12-1
+Added Pin To Net: NetName=+3.3V Pin=R13-1
+Added Pin To Net: NetName=+3.3V Pin=R14-1
+Added Pin To Net: NetName=GND Pin=T3-1
+Added Pin To Net: NetName=GND Pin=T4-1
+Added Pin To Net: NetName=GND Pin=T5-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=T5-2
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=T4-2
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=T3-2
+Added Net: Name=NetR14_2
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component R12 Resistor
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component R13 Resistor
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component R14 Resistor
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component T3 SPOX 1*2
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component T4 SPOX 1*2
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component T5 SPOX 1*2
+Added Room: Name=U_Communication and peripherals
+Added Room: Name=U_MicroControllerSTM32f103
+Added Room: Name=U_Power Management

@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=NetT4_3 Pin=T4-4
+Change Component Comment : Designator=C5 Old Comment=22pf New Comment=20pf
+Change Component Comment : Designator=C7 Old Comment=22pf New Comment=20pf
+Change Component Designator: OldDesignator=C18 NewDesignator=C22
+Change Component Designator: OldDesignator=C19 NewDesignator=C18
+Change Component Designator: OldDesignator=C20 NewDesignator=C19
+Change Component Designator: OldDesignator=C21 NewDesignator=C20
+Change Component Designator: OldDesignator=C22 NewDesignator=C21
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Added Component: Designator=J1(Jumper SMD - Small)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K1(Relay_MILONBIG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=K2(Relay_MILONBIG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T5(Phonix-2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U5(SO16)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=+5V Pin=K1-1
+Added Pin To Net: NetName=+5V Pin=K2-1
+Added Pin To Net: NetName=NetT4_3 Pin=T4-2
+Added Pin To Net: NetName=S-Current Pin=U2-17
+Added Pin To Net: NetName=GND Pin=U5-8
+Added Pin To Net: NetName=+5V Pin=U5-9
+Change Net Name : Old Net Name=NetC18_2 New Net Name=NetC22_2
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetT4_3 New Net Name=COM_OUT
+Added Pin To Net: NetName=Boot1 Pin=J1-1
+Added Pin To Net: NetName=Boot1 Pin=U2-20
+Added Net: Name=Boot1
+Added Pin To Net: NetName=COM Pin=T5-1
+Added Pin To Net: NetName=COM Pin=U6-3
+Added Pin To Net: NetName=COM Pin=U6-4
+Added Net: Name=COM
+Added Pin To Net: NetName=INR1 Pin=U2-13
+Added Pin To Net: NetName=INR1 Pin=U5-3
+Added Pin To Net: NetName=INR1 Pin=U5-4
+Added Net: Name=INR1
+Added Pin To Net: NetName=INR2 Pin=U2-14
+Added Pin To Net: NetName=INR2 Pin=U5-1
+Added Pin To Net: NetName=INR2 Pin=U5-2
+Added Net: Name=INR2
+Added Pin To Net: NetName=NetK1_4 Pin=K1-4
+Added Pin To Net: NetName=NetK1_4 Pin=U5-15
+Added Pin To Net: NetName=NetK1_4 Pin=U5-16
+Added Net: Name=NetK1_4
+Added Pin To Net: NetName=NetK2_4 Pin=K2-4
+Added Pin To Net: NetName=NetK2_4 Pin=U5-13
+Added Pin To Net: NetName=NetK2_4 Pin=U5-14
+Added Net: Name=NetK2_4
+Added Pin To Net: NetName=V+(2)CCW Pin=K1-2
+Added Pin To Net: NetName=V+(2)CCW Pin=T4-1
+Added Net: Name=V+(2)CCW
+Added Pin To Net: NetName=V+(2)CW Pin=K2-2
+Added Pin To Net: NetName=V+(2)CW Pin=T4-4
+Added Net: Name=V+(2)CW
+Added Pin To Net: NetName=V+(2) Pin=K1-5
+Added Pin To Net: NetName=V+(2) Pin=K2-5
+Added Pin To Net: NetName=V+(2) Pin=T5-2
+Added Net: Name=V+(2)
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component J2 Jumper
+Added Member To Class: ClassName=U_Power Management Member=Component K1 RelayMilon
+Added Member To Class: ClassName=U_Power Management Member=Component K2 RelayMilon
+Added Member To Class: ClassName=U_Power Management Member=Component T5 Phonix-2
+Added Member To Class: ClassName=U_Power Management Member=Component U6 ACS712

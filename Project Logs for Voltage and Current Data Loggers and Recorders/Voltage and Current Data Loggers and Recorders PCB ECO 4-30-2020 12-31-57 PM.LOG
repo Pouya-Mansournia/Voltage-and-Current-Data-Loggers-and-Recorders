@@ -1,0 +1,40 @@
+Added Component: Designator=U2(LQFP48_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "STM32F103 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00161566.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "STM32 Family Web Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "www.st.com/stm32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "rev13.0, Apr-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "48-Pin Low-Profile Quad Flat Pack, 7 x 7 mm Body, 0.5 mm Pitch (LQFP48)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "rev13, Apr-2011"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=U2-1
+Added Pin To Net: NetName=NetC6_2 Pin=U2-3
+Added Pin To Net: NetName=NetC8_2 Pin=U2-4
+Added Pin To Net: NetName=NetC5_2 Pin=U2-5
+Added Pin To Net: NetName=NetC7_2 Pin=U2-6
+Added Pin To Net: NetName=NetC9_1 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=NetC13_2 Pin=U2-9
+Added Pin To Net: NetName=SLD Pin=U2-11
+Added Pin To Net: NetName=INR1 Pin=U2-13
+Added Pin To Net: NetName=INR2 Pin=U2-14
+Added Pin To Net: NetName=S-Current Pin=U2-17
+Added Pin To Net: NetName=Boot1 Pin=U2-20
+Added Pin To Net: NetName=GND Pin=U2-23
+Added Pin To Net: NetName=+3.3V Pin=U2-24
+Added Pin To Net: NetName=RXUS Pin=U2-30
+Added Pin To Net: NetName=TXUS Pin=U2-31
+Added Pin To Net: NetName=DIO Pin=U2-34
+Added Pin To Net: NetName=GND Pin=U2-35
+Added Pin To Net: NetName=+3.3V Pin=U2-36
+Added Pin To Net: NetName=CLK Pin=U2-37
+Added Pin To Net: NetName=NetR7_1 Pin=U2-44
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=+3.3V Pin=U2-48
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component U2 STM32F103C8T6
+Added Room: Name=U_Communication and peripherals
+Added Room: Name=U_MicroControllerSTM32f103
+Added Room: Name=U_Power Management

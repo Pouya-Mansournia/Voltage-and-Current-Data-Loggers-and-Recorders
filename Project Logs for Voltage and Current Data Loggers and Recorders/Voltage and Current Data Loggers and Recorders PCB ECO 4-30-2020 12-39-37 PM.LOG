@@ -1,0 +1,76 @@
+Added Component: Designator=C5(Cap0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(Cap0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=DZ1(LL4148)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(SOP65P780X200-28N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(LQFP48_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "STM32F103 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00161566.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "STM32 Family Web Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "www.st.com/stm32"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "rev13.0, Apr-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "48-Pin Low-Profile Quad Flat Pack, 7 x 7 mm Body, 0.5 mm Pitch (LQFP48)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "rev13, Apr-2011"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=Vo33 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=Vo33 Pin=C6-2
+Added Pin To Net: NetName=NetDZ1_A Pin=DZ1-A
+Added Pin To Net: NetName=+5V Pin=DZ1-K
+Added Pin To Net: NetName=TXUS Pin=U1-1
+Added Pin To Net: NetName=+3.3V Pin=U1-4
+Added Pin To Net: NetName=RXUS Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=NetR2_2 Pin=U1-15
+Added Pin To Net: NetName=NetR4_2 Pin=U1-16
+Added Pin To Net: NetName=Vo33 Pin=U1-17
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=+5V Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U1-22
+Added Pin To Net: NetName=GND Pin=U1-23
+Added Pin To Net: NetName=GND Pin=U1-25
+Added Pin To Net: NetName=GND Pin=U1-26
+Added Pin To Net: NetName=NetC2_1 Pin=U1-27
+Added Pin To Net: NetName=NetC1_1 Pin=U1-28
+Added Pin To Net: NetName=+3.3V Pin=U2-1
+Added Pin To Net: NetName=NetC8_2 Pin=U2-3
+Added Pin To Net: NetName=NetC10_2 Pin=U2-4
+Added Pin To Net: NetName=NetC7_2 Pin=U2-5
+Added Pin To Net: NetName=NetC9_2 Pin=U2-6
+Added Pin To Net: NetName=NetC11_1 Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=NetC15_2 Pin=U2-9
+Added Pin To Net: NetName=SLD Pin=U2-11
+Added Pin To Net: NetName=INR1 Pin=U2-13
+Added Pin To Net: NetName=INR2 Pin=U2-14
+Added Pin To Net: NetName=S-Current Pin=U2-17
+Added Pin To Net: NetName=Boot1 Pin=U2-20
+Added Pin To Net: NetName=GND Pin=U2-23
+Added Pin To Net: NetName=+3.3V Pin=U2-24
+Added Pin To Net: NetName=RXUS Pin=U2-30
+Added Pin To Net: NetName=TXUS Pin=U2-31
+Added Pin To Net: NetName=DIO Pin=U2-34
+Added Pin To Net: NetName=GND Pin=U2-35
+Added Pin To Net: NetName=+3.3V Pin=U2-36
+Added Pin To Net: NetName=CLK Pin=U2-37
+Added Pin To Net: NetName=NetR6_1 Pin=U2-44
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=+3.3V Pin=U2-48
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component C5 100nf
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component C6 1uf
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component DZ1 1n5822
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component U1 PL2303TA
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component U2 STM32F103C8T6
+Added Room: Name=U_Communication and peripherals
+Added Room: Name=U_MicroControllerSTM32f103
+Added Room: Name=U_Power Management

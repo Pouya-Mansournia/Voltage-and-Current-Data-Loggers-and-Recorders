@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=TXUS Pin=U1-1
+Removed Pin From Net: NetName=+3.3V Pin=U1-4
+Removed Pin From Net: NetName=RXUS Pin=U1-5
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=NetR2_2 Pin=U1-15
+Removed Pin From Net: NetName=NetR4_2 Pin=U1-16
+Removed Pin From Net: NetName=Vo33 Pin=U1-17
+Removed Pin From Net: NetName=GND Pin=U1-18
+Removed Pin From Net: NetName=+5V Pin=U1-20
+Removed Pin From Net: NetName=GND Pin=U1-21
+Removed Pin From Net: NetName=GND Pin=U1-22
+Removed Pin From Net: NetName=GND Pin=U1-23
+Removed Pin From Net: NetName=GND Pin=U1-25
+Removed Pin From Net: NetName=GND Pin=U1-26
+Removed Pin From Net: NetName=NetC2_1 Pin=U1-27
+Removed Pin From Net: NetName=NetC1_1 Pin=U1-28
+Removed Member From Class: ClassName=U_Communication and peripherals Member=U1
+Added Component: Designator=U?(SOP65P780X200-28N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=TXUS Pin=U?-1
+Added Pin To Net: NetName=+3.3V Pin=U?-4
+Added Pin To Net: NetName=RXUS Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=NetR2_2 Pin=U?-15
+Added Pin To Net: NetName=NetR4_2 Pin=U?-16
+Added Pin To Net: NetName=Vo33 Pin=U?-17
+Added Pin To Net: NetName=GND Pin=U?-18
+Added Pin To Net: NetName=+5V Pin=U?-20
+Added Pin To Net: NetName=GND Pin=U?-21
+Added Pin To Net: NetName=GND Pin=U?-22
+Added Pin To Net: NetName=GND Pin=U?-23
+Added Pin To Net: NetName=GND Pin=U?-25
+Added Pin To Net: NetName=GND Pin=U?-26
+Added Pin To Net: NetName=NetC2_1 Pin=U?-27
+Added Pin To Net: NetName=NetC1_1 Pin=U?-28
+Added Member To Class: ClassName=U_Communication and peripherals Member=Component U? PL2303TA

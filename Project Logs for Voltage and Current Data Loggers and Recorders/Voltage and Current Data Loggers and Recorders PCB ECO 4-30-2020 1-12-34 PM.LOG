@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=COM Pin=T5-1
+Removed Pin From Net: NetName=V+(2) Pin=T5-2
+Removed Pin From Net: NetName=COM_OUT Pin=U6-1
+Removed Pin From Net: NetName=COM_OUT Pin=U6-2
+Removed Pin From Net: NetName=COM Pin=U6-3
+Removed Pin From Net: NetName=COM Pin=U6-4
+Added Pin To Net: NetName=V+(2) Pin=T5-1
+Added Pin To Net: NetName=COM Pin=T5-2
+Added Pin To Net: NetName=COM Pin=U6-1
+Added Pin To Net: NetName=COM Pin=U6-2
+Added Pin To Net: NetName=COM_OUT Pin=U6-3
+Added Pin To Net: NetName=COM_OUT Pin=U6-4
+Added Room: Name=U_Power Management

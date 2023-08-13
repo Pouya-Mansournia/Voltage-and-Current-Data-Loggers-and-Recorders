@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=T3 NewDesignator=T6
+Change Component Designator: OldDesignator=T4 NewDesignator=T7
+Change Component Designator: OldDesignator=T5 NewDesignator=T8
+Added Component: Designator=T3(SPOX2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T4(SPOX2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T5(SPOX2)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component T3 SPOX 1*2
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component T4 SPOX 1*2
+Added Member To Class: ClassName=U_MicroControllerSTM32f103 Member=Component T5 SPOX 1*2
